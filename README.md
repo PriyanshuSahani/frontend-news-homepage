@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/PriyanshuSahani/frontend-news-homepage)
+- Live Site URL: [Live site](https://priyanshusahani.github.io/frontend-news-homepage/)
 
 ## My process
 
